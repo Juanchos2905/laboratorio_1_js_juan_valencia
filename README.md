@@ -61,5 +61,7 @@ Por último, la carpeta cartas contiene todas las imágenes de las cartas del Bl
 ## Imagen:
 ![capture-9](https://user-images.githubusercontent.com/105325621/182474422-d2be33a8-dd27-4e94-8bdc-b1d327a97998.png)
 
+## Resultado final:
+![capture-final](https://user-images.githubusercontent.com/105325621/182492267-2a88a077-5fe8-4207-8741-19d876851f0c.png)
 
 By: *Juan Manuel Valencia G.
